@@ -1,0 +1,23 @@
+{
+  "name": "docker-caio",
+  "version": "1.0.0",
+  "description": "Projeto Padrao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiosfg/docker.git"
+  },
+  "author": "caiosfg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiosfg/docker/issues"
+  },
+  "homepage": "https://github.com/caiosfg/docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
